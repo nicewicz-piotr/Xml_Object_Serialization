@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Kształty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ksztalt xsi:type="Kolo" Kolor="czerwony" Promień="2.5" />
+  <Ksztalt xsi:type="Prostokat" Kolor="niebieski" Wysokość="20" Szerokość="10" />
+  <Ksztalt xsi:type="Kolo" Kolor="zielony" Promień="8" />
+  <Ksztalt xsi:type="Kolo" Kolor="purprowy" Promień="12.3" />
+  <Ksztalt xsi:type="Prostokat" Kolor="niebieski" Wysokość="45" Szerokość="18" />
+</Kształty>
